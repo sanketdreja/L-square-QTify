@@ -15,6 +15,7 @@ function Carousel({ data, type }) {
 
     return <></>;
   };
+
   return (
     <div>
       <Swiper
